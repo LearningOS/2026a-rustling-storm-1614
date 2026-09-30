@@ -2,8 +2,8 @@
   "schema": 1,
   "courseId": 2084,
   "repository": "LearningOS/2026a-rustling-storm-1614",
-  "commit": "c93362c430d90883dac8a50eae30662a73a58f82",
-  "score": 87,
+  "commit": "26eff512d6e9447df944cc91e6cb1db29f59d76e",
+  "score": 90,
   "totalScore": 110,
   "exercises": [
     {
@@ -618,23 +618,23 @@
     {
       "name": "clippy1",
       "max": 1,
-      "score": 0,
-      "status": "fail",
-      "exitCode": 1
+      "score": 1,
+      "status": "pass",
+      "exitCode": 0
     },
     {
       "name": "clippy2",
       "max": 1,
-      "score": 0,
-      "status": "fail",
-      "exitCode": 1
+      "score": 1,
+      "status": "pass",
+      "exitCode": 0
     },
     {
       "name": "clippy3",
       "max": 1,
-      "score": 0,
-      "status": "fail",
-      "exitCode": 1
+      "score": 1,
+      "status": "pass",
+      "exitCode": 0
     },
     {
       "name": "using_as",
@@ -778,9 +778,9 @@
     }
   ],
   "student": "storm-1614",
-  "runId": "36663025246",
+  "runId": "36670274610",
   "runAttempt": "1",
   "upload": {
-    "status": "accepted"
+    "status": "pending"
   }
 }
